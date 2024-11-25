@@ -1,5 +1,7 @@
 # Passwordless WebAuthn en .NET
 
+![Presentation image](https://pbs.twimg.com/media/GdEeofvW0AABGVo?format=jpg&name=large)
+
 Este repositorio contiene una implementación de autenticación sin contraseña (passwordless) utilizando WebAuthn en una aplicación .NET.
 
 ## Descripción
